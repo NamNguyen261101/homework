@@ -1,0 +1,15 @@
+E:\C# Btvn\Btvnless1\Btvnless1\obj\Debug\net6.0\Btvnless1.csproj.AssemblyReference.cache
+E:\C# Btvn\Btvnless1\Btvnless1\obj\Debug\net6.0\Btvnless1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Btvn\Btvnless1\Btvnless1\obj\Debug\net6.0\Btvnless1.AssemblyInfoInputs.cache
+E:\C# Btvn\Btvnless1\Btvnless1\obj\Debug\net6.0\Btvnless1.AssemblyInfo.cs
+E:\C# Btvn\Btvnless1\Btvnless1\obj\Debug\net6.0\Btvnless1.csproj.CoreCompileInputs.cache
+E:\C# Btvn\Btvnless1\Btvnless1\bin\Debug\net6.0\Btvnless1.exe
+E:\C# Btvn\Btvnless1\Btvnless1\bin\Debug\net6.0\Btvnless1.deps.json
+E:\C# Btvn\Btvnless1\Btvnless1\bin\Debug\net6.0\Btvnless1.runtimeconfig.json
+E:\C# Btvn\Btvnless1\Btvnless1\bin\Debug\net6.0\Btvnless1.dll
+E:\C# Btvn\Btvnless1\Btvnless1\bin\Debug\net6.0\Btvnless1.pdb
+E:\C# Btvn\Btvnless1\Btvnless1\obj\Debug\net6.0\Btvnless1.dll
+E:\C# Btvn\Btvnless1\Btvnless1\obj\Debug\net6.0\refint\Btvnless1.dll
+E:\C# Btvn\Btvnless1\Btvnless1\obj\Debug\net6.0\Btvnless1.pdb
+E:\C# Btvn\Btvnless1\Btvnless1\obj\Debug\net6.0\Btvnless1.genruntimeconfig.cache
+E:\C# Btvn\Btvnless1\Btvnless1\obj\Debug\net6.0\ref\Btvnless1.dll

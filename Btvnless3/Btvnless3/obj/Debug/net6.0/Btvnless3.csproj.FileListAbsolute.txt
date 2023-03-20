@@ -1,0 +1,15 @@
+E:\C# Btvn\Btvnless3\Btvnless3\bin\Debug\net6.0\Btvnless3.exe
+E:\C# Btvn\Btvnless3\Btvnless3\bin\Debug\net6.0\Btvnless3.deps.json
+E:\C# Btvn\Btvnless3\Btvnless3\bin\Debug\net6.0\Btvnless3.runtimeconfig.json
+E:\C# Btvn\Btvnless3\Btvnless3\bin\Debug\net6.0\Btvnless3.dll
+E:\C# Btvn\Btvnless3\Btvnless3\bin\Debug\net6.0\Btvnless3.pdb
+E:\C# Btvn\Btvnless3\Btvnless3\obj\Debug\net6.0\Btvnless3.csproj.AssemblyReference.cache
+E:\C# Btvn\Btvnless3\Btvnless3\obj\Debug\net6.0\Btvnless3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Btvn\Btvnless3\Btvnless3\obj\Debug\net6.0\Btvnless3.AssemblyInfoInputs.cache
+E:\C# Btvn\Btvnless3\Btvnless3\obj\Debug\net6.0\Btvnless3.AssemblyInfo.cs
+E:\C# Btvn\Btvnless3\Btvnless3\obj\Debug\net6.0\Btvnless3.csproj.CoreCompileInputs.cache
+E:\C# Btvn\Btvnless3\Btvnless3\obj\Debug\net6.0\Btvnless3.dll
+E:\C# Btvn\Btvnless3\Btvnless3\obj\Debug\net6.0\refint\Btvnless3.dll
+E:\C# Btvn\Btvnless3\Btvnless3\obj\Debug\net6.0\Btvnless3.pdb
+E:\C# Btvn\Btvnless3\Btvnless3\obj\Debug\net6.0\Btvnless3.genruntimeconfig.cache
+E:\C# Btvn\Btvnless3\Btvnless3\obj\Debug\net6.0\ref\Btvnless3.dll
