@@ -1,0 +1,15 @@
+E:\C# Btvn\hwork9\hwork9\bin\Debug\net6.0\hwork9.exe
+E:\C# Btvn\hwork9\hwork9\bin\Debug\net6.0\hwork9.deps.json
+E:\C# Btvn\hwork9\hwork9\bin\Debug\net6.0\hwork9.runtimeconfig.json
+E:\C# Btvn\hwork9\hwork9\bin\Debug\net6.0\hwork9.dll
+E:\C# Btvn\hwork9\hwork9\bin\Debug\net6.0\hwork9.pdb
+E:\C# Btvn\hwork9\hwork9\obj\Debug\net6.0\hwork9.csproj.AssemblyReference.cache
+E:\C# Btvn\hwork9\hwork9\obj\Debug\net6.0\hwork9.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Btvn\hwork9\hwork9\obj\Debug\net6.0\hwork9.AssemblyInfoInputs.cache
+E:\C# Btvn\hwork9\hwork9\obj\Debug\net6.0\hwork9.AssemblyInfo.cs
+E:\C# Btvn\hwork9\hwork9\obj\Debug\net6.0\hwork9.csproj.CoreCompileInputs.cache
+E:\C# Btvn\hwork9\hwork9\obj\Debug\net6.0\hwork9.dll
+E:\C# Btvn\hwork9\hwork9\obj\Debug\net6.0\refint\hwork9.dll
+E:\C# Btvn\hwork9\hwork9\obj\Debug\net6.0\hwork9.pdb
+E:\C# Btvn\hwork9\hwork9\obj\Debug\net6.0\hwork9.genruntimeconfig.cache
+E:\C# Btvn\hwork9\hwork9\obj\Debug\net6.0\ref\hwork9.dll
